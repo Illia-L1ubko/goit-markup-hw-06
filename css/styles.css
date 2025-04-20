@@ -42,7 +42,10 @@ img {
 .section {
   padding: 120px 0;
 }
-/* header settings*/
+
+/*---global characteristics---*/
+
+/*---header settings---*/
 
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -179,7 +182,9 @@ img {
   color: #404bbf;
 }
 
-/*section one settings*/
+/*---header settings---*/
+
+/*---section one settings---*/
 
 .section-one .container {
   flex-direction: column;
@@ -235,7 +240,9 @@ img {
   background-color: #404bbf;
 }
 
-/*section two settings*/
+/*---section one settings---*/
+
+/*---section two settings---*/
 
 .visually-hidden {
   position: absolute;
@@ -290,7 +297,9 @@ img {
   margin-bottom: 8px;
 }
 
-/*section three settings*/
+/*---section two settings---*/
+
+/*---section three settings---*/
 
 .section-three {
   background-color: #f4f4fd;
@@ -377,7 +386,9 @@ img {
   fill: #f4f4fd;
 }
 
-/*section four settings*/
+/*---section three settings---*/
+
+/*---section four settings---*/
 
 .sec-four {
   padding: 120px 0 120px 0;
@@ -489,9 +500,9 @@ img {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/*---footer styles---*/
+/*---section four---*/
 
-
+/*---footer---*/
 
 .footer {
   font-family: "Roboto", sans-serif;
@@ -649,7 +660,10 @@ fill: #ffffff
 
 /*-------------Footer-Form-------------------------*/
 
-/*-------------Modal Windown styles---------------*/
+/*---footer---*/
+
+
+/*-------------Modal Window---------------*/
 
 .backdrop {
   position: fixed;
@@ -894,5 +908,5 @@ fill: #F4F4FD;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   margin: 24px auto;
 }
-/*---form styles---*/
+/*-------------Modal Window---------------*/
 
